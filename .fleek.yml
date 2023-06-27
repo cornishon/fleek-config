@@ -28,6 +28,7 @@ packages:
     - xorg.libXi
     - xorg.libXrandr
     - pkgconfig
+    - udev
 paths:
     - $HOME/bin
     - $HOME/.local/bin
