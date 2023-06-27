@@ -19,6 +19,7 @@ packages:
     - mold
     - zellij
     - nushell
+    - clang
 paths:
     - $HOME/bin
     - $HOME/.local/bin

@@ -23,6 +23,7 @@
     pkgs.mold
     pkgs.zellij
     pkgs.nushell
+    pkgs.clang
     # Fleek Bling
     pkgs.git
     pkgs.htop
