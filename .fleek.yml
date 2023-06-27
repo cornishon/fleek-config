@@ -17,6 +17,7 @@ overlays: {}
 packages:
     - helix
     - mold
+    - zellij
 paths:
     - $HOME/bin
     - $HOME/.local/bin
