@@ -27,6 +27,7 @@ packages:
     - xorg.libXcursor
     - xorg.libXi
     - xorg.libXrandr
+    - pkgconfig
 paths:
     - $HOME/bin
     - $HOME/.local/bin

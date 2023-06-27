@@ -31,6 +31,7 @@
     pkgs.xorg.libXcursor
     pkgs.xorg.libXi
     pkgs.xorg.libXrandr
+    pkgs.pkgconfig
     # Fleek Bling
     pkgs.git
     pkgs.htop
