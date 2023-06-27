@@ -18,6 +18,7 @@ packages:
     - helix
     - mold
     - zellij
+    - nushell
 paths:
     - $HOME/bin
     - $HOME/.local/bin
