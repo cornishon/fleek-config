@@ -20,6 +20,7 @@ packages:
     - zellij
     - nushell
     - clang
+    - vulkan-loader
 paths:
     - $HOME/bin
     - $HOME/.local/bin

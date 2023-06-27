@@ -24,6 +24,7 @@
     pkgs.zellij
     pkgs.nushell
     pkgs.clang
+    pkgs.vulkan-loader
     # Fleek Bling
     pkgs.git
     pkgs.htop
