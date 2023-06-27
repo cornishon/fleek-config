@@ -26,6 +26,7 @@
     pkgs.clang
     pkgs.vulkan-loader
     pkgs.wayland
+    pkgs.libxkbcommon
     # Fleek Bling
     pkgs.git
     pkgs.htop

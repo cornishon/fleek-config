@@ -22,6 +22,7 @@ packages:
     - clang
     - vulkan-loader
     - wayland
+    - libxkbcommon
 paths:
     - $HOME/bin
     - $HOME/.local/bin
