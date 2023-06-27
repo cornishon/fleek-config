@@ -19,7 +19,6 @@ packages:
     - mold
     - zellij
     - nushell
-    - rustup
 paths:
     - $HOME/bin
     - $HOME/.local/bin
