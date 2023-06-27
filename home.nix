@@ -25,6 +25,7 @@
     pkgs.nushell
     pkgs.clang
     pkgs.vulkan-loader
+    pkgs.wayland
     # Fleek Bling
     pkgs.git
     pkgs.htop

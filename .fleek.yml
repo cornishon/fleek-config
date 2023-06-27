@@ -21,6 +21,7 @@ packages:
     - nushell
     - clang
     - vulkan-loader
+    - wayland
 paths:
     - $HOME/bin
     - $HOME/.local/bin
