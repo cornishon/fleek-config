@@ -27,6 +27,10 @@
     pkgs.vulkan-loader
     pkgs.wayland
     pkgs.libxkbcommon
+    pkgs.xorg.libX11
+    pkgs.xorg.libXcursor
+    pkgs.xorg.libXi
+    pkgs.xorg.libXrandr
     # Fleek Bling
     pkgs.git
     pkgs.htop
