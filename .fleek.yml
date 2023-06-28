@@ -29,6 +29,7 @@ packages:
     - xorg.libXrandr
     - pkgconfig
     - udev
+    - interception-tools
 paths:
     - $HOME/bin
     - $HOME/.local/bin

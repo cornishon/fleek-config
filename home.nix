@@ -33,6 +33,7 @@
     pkgs.xorg.libXrandr
     pkgs.pkgconfig
     pkgs.udev
+    pkgs.interception-tools
     # Fleek Bling
     pkgs.git
     pkgs.htop
